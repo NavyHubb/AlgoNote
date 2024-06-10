@@ -1,11 +1,10 @@
-#  <img src="/uploads/93cca29000ea2b42efdeec893879909f/Group_1437252915.png"  width="30" height="30"/> AlgoNote  
+#  <img src="https://github.com/NavyHubb/AlgoNote/assets/101810007/a09d121e-e314-4df1-a161-bfe381bcac44"  width="30" height="30"/> AlgoNote  
 > Samsung Software Academy For Youth 10기  
 > 도메인 : 자율 프로젝트  
 > 개발 기간 : 2024.04.09 ~ 2024.05.20
 
 
 # 🌟 프로젝트 소개
-![algonote_logo](/uploads/b91336887718e1a35acf952ae9c90ca7/Mask_group__1_.png)
 
 **알고리즘을 학습하며 느꼈던 불편한점이 있으신가요?**
 
